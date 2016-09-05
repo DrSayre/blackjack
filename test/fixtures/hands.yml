@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  player_value: 1
+  dealer_card: 1
+  hard: false
+  pair: false
+  game: one
+  action: MyString
+
+two:
+  player_value: 1
+  dealer_card: 1
+  hard: false
+  pair: false
+  game: two
+  action: MyString

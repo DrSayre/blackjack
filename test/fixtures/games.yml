@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  decks: 1
+  dealer_hit_on_soft_17: false
+
+two:
+  decks: 1
+  dealer_hit_on_soft_17: false
