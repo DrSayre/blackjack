@@ -1,5 +1,7 @@
 # README
 
+## WIP: Not sure what this is going to be... Probably a React app for learning how to play Blackjack
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
